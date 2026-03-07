@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "@jest/globals": "^30.2.0",
-    "better-sqlite3": "^12.6.2",    
+    "better-sqlite3": "^12.6.2",     
     "jest": "^30.2.0",
     "supertest": "^7.2.2"
   }
